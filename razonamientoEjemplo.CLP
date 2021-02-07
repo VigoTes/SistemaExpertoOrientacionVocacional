@@ -1,0 +1,23 @@
+(defrule rule0	(p0 s) => (assert (     c0 s      )))
+(defrule rule1	(p1 s) => (assert (     c1 s      )))
+(defrule rule2	(p2 s) => (assert (     c2 s      )))
+(defrule rule3	(p3 s) => (assert (     c3 s      )))
+(defrule rule4	(p4 s) => (assert (     c4 s      )))
+(defrule rule5	(p5 s) => (assert (     c5 s      )))
+(defrule rule6	(p6 s) => (assert (     c6 s      )))
+(defrule rule7	(p7 s) => (assert (     c7 s      )))
+(defrule rule8	(p8 s) => (assert (     c8 s      )))
+(defrule rule9	(p9 s) => (assert (     c9 s      )))
+
+
+
+(defrule rulePrint0 (c0 s) => (printout t "[[c0]]" crlf))
+(defrule rulePrint1 (c1 s) => (printout t "[[c1]]" crlf))
+(defrule rulePrint2 (c2 s) => (printout t "[[c2]]" crlf))
+(defrule rulePrint3 (c3 s) => (printout t "[[c3]]" crlf))
+(defrule rulePrint4 (c4 s) => (printout t "[[c4]]" crlf))
+(defrule rulePrint5 (c5 s) => (printout t "[[c5]]" crlf))
+(defrule rulePrint6 (c6 s) => (printout t "[[c6]]" crlf))
+(defrule rulePrint7 (c7 s) => (printout t "[[c7]]" crlf))
+(defrule rulePrint8 (c8 s) => (printout t "[[c8]]" crlf))
+(defrule rulePrint9 (c9 s) => (printout t "[[c9]]" crlf))

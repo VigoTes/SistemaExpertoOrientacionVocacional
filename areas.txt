@@ -1,0 +1,7 @@
+Administrativas y Contables = 
+Humanisticas y Sociales = 
+Artisticas = 
+Medicina y Cs de la Salud = 
+Ingenieria y Computacion
+Defensa y Seguridad
+Ciencias Exactas y Agrarias
